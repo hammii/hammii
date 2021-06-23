@@ -24,8 +24,15 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 
   <h3>•••</h3>
+    
+  <p align='center'>
+  <a href="https://velog.io/@hammii"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hammii"/></a>&nbsp
+  <a href="mailto:hyj9829@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyj9829@gmail.com"/></a>
+  </p>
+  <br/>
   
   <h3> 🏃🏻‍♀️🏃🏻‍♀️ My stats 🏃🏻‍♀️🏃🏻‍♀ </h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammii&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammii&layout=compact&theme=buefy&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
