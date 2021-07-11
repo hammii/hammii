@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hayeong%20Jang&fontSize=80&fontAlign=60)
 
   <h3> 🙌 Welcome 🙌 </h3>
-  <p></p>
+  <p>I'm a front-end engineer who is in the 4th grade of university.<br/>I want to develop convenient and cool things.</p>
   <br/>
   
   <h3>📚 Techology Stack 📚</h3>
