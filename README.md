@@ -28,7 +28,7 @@
   <p align='center'>
   <a href="https://velog.io/@hammii"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hammii"/></a>&nbsp
   <a href="mailto:hyj9829@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyj9829@gmail.com"/></a>&nbsp
-  <a href="https://www.notion.so/Jang-Hayeong-212012cc89c44ba5bec1911eb1c69cbf"><img src="https://img.shields.io/badge/Notion-232F3E?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Jang-Hayeong-212012cc89c44ba5bec1911eb1c69cbf"/></a>
+<!--   <a href="https://www.notion.so/Jang-Hayeong-212012cc89c44ba5bec1911eb1c69cbf"><img src="https://img.shields.io/badge/Notion-232F3E?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Jang-Hayeong-212012cc89c44ba5bec1911eb1c69cbf"/></a> -->
   </p>
   
   <h3> 🏃🏻‍♀️🏃🏻‍♀️ My stats 🏃🏻‍♀️🏃🏻‍♀ </h3>
