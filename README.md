@@ -25,7 +25,7 @@
     
   <br/> <h3> 🏃🏻‍♀️🏃🏻‍♀️ My stats 🏃🏻‍♀️🏃🏻‍♀ </h3>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammii&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammii&hide=stars&count_private=true&show_icons=true&theme=buefy&card_width=400)](https://github.com/anuraghazra/github-readme-stats) 
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyj9829">
 
   <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammii&layout=compact&theme=buefy&hide=css)](https://github.com/anuraghazra/github-readme-stats) -->
